@@ -1,6 +1,7 @@
 #   this is my test program with github
 #   A Very Simple Neural Network in Python 3 with Numpy, Part 2
 #   Alan Richmond @ Python3.codes
+#   test
 import numpy as np
 import matplotlib.pyplot as plt
 import math, time
