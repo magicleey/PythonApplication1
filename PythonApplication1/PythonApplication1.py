@@ -2,6 +2,8 @@
 #   A Very Simple Neural Network in Python 3 with Numpy, Part 2
 #   Alan Richmond @ Python3.codes
 #   test
+#   test 2
+#   test 3
 import numpy as np
 import matplotlib.pyplot as plt
 import math, time
